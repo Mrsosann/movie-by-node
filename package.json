@@ -1,0 +1,26 @@
+{
+  "name": "movie-by-node",
+  "version": "1.0.0",
+  "description": "movie web by node+mongodb",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrsosann/movie-by-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrsosann/movie-by-node/issues"
+  },
+  "homepage": "https://github.com/Mrsosann/movie-by-node#readme"
+}
